@@ -6,33 +6,33 @@ import json
 beginner_contents = { 
     "0" : {
     'id' : "0",
-    'videoURL' : [],
+    'videoURL' : ["https://www.youtube.com/embed/1AjrdmVC3TA"],
     'homeworkURL' : [],
-    'hwSub' : [],
+    'hwSub' : "",
     },
     "1" : {
     'id' : "1",
     'videoURL' : [],
     'homeworkURL' : [],
-    'hwSub' : [],
+    'hwSub' : "",
     },
     "2" : {
     'id' : "2",
     'videoURL' : [],
     'homeworkURL' : [],
-    'hwSub' : [],
+    'hwSub' : "",
     },
     "3" : {
     'id' : "3",
     'videoURL' : [],
     'homeworkURL' : [],
-    'hwSub' : [],
+    'hwSub' : "",
     },
     "4" : {
     'id' : "4",
     'videoURL' : [],
     'homeworkURL' : [],
-    'hwSub' : [],
+    'hwSub' : "",
     }
 
 }

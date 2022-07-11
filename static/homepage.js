@@ -1,6 +1,6 @@
 
 function beg_func() {
-    window.location.href = "https://www.example.com";
+    window.location.href = "/beginner/0";
 }
 
 function inter_func() {

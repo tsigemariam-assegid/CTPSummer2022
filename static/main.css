@@ -1,0 +1,113 @@
+.video {
+	float:  left;
+	margin-right:  30px;
+}
+.videoheader {
+	padding: 10px;
+	font-weight:  bold;
+	font-size: 20px;
+}
+.homeworkheader {
+	padding-top: 30px;
+	padding-left: 10px;
+	font-weight:  bold;
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+
+a:link, a:visited {
+  padding: 1px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.sidebar{
+   position: fixed;
+   width: 20%;
+   top: 50px;
+   left: 0;
+   bottom: 0;
+   background: lightgrey;
+   padding-top: 50px;
+}
+
+/*.sidebar h1{
+   display: block;
+   padding: 10px 20px;
+   color: #fff;
+   text-decoration: none;
+   font-family: "Rubik";
+   letter-spacing: 2px;
+   font-weight: 400;
+   margin: 0;
+   font-size: 25px;
+   text-transform: uppercase;
+}*/
+
+.sidebar a{
+   display: block;
+   padding: 10px 20px;
+   color: black;
+   text-decoration: none;
+   font-family: "Rubik";
+   letter-spacing: 2px;
+   font-size: 20px;
+
+}
+
+.sidebar a:hover{
+   color: #fff;
+   margin-left: 20px;
+   transition: 0.4s;
+}
+
+.image {
+	padding-left:  200px;
+	padding-top: 30px;
+}
+
+.hometext {
+	text-align: center;
+	padding-top:  20px;
+	padding-left: 50px;
+	padding-right: 30px;
+}
+
+.section {
+	text-align: center;
+	font-weight: bold;
+}
+
+.buttons {
+	text-align:  center;
+	padding-top: 20px;
+}
+
+#beginner_button {
+	margin-right:  20px;
+	border-radius: 20px;
+	padding: 7px;
+	background: #FF5B00;
+	border: None;
+}
+
+#intermediate_button {
+	margin-right:  20px;
+	border-radius: 20px;
+	padding:  7px;
+	background: #FF5B00;
+	border: None;
+}
+
+#advanced_button {
+	border-radius: 20px;
+	padding: 7px;
+	background: #FF5B00;
+	border: None;
+}
+
+.extraSpace {
+	padding-bottom: 50px;
+}
+
+
